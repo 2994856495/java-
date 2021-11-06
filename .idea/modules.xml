@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../workspace_news/CrossLanguageTopicSimilarity/CrossLanguageTopicSimilarity.iml" filepath="$PROJECT_DIR$/../../workspace_news/CrossLanguageTopicSimilarity/CrossLanguageTopicSimilarity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace_news/2LDAGibbsSampling-bo/LDAGibbsSampling-bo.iml" filepath="$PROJECT_DIR$/../../workspace_news/2LDAGibbsSampling-bo/LDAGibbsSampling-bo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace_news/1LDAGibbsSampling-zh-weight/LDAGibbsSamplingzhweight.iml" filepath="$PROJECT_DIR$/../../workspace_news/1LDAGibbsSampling-zh-weight/LDAGibbsSamplingzhweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace_news/MUC/MUC.iml" filepath="$PROJECT_DIR$/../../workspace_news/MUC/MUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace_news/TopicSimilarity/TopicSimilarity.iml" filepath="$PROJECT_DIR$/../../workspace_news/TopicSimilarity/TopicSimilarity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../workspace_news/TopicSimilarity_Tibetan/TopicSimilarity_Tibetan.iml" filepath="$PROJECT_DIR$/../../workspace_news/TopicSimilarity_Tibetan/TopicSimilarity_Tibetan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_code.iml" filepath="$PROJECT_DIR$/java_code.iml" />
+    </modules>
+  </component>
+</project>
